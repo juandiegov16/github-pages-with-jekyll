@@ -1,3 +1,4 @@
-First blog post
-
-26/2/2019: My first foray into Github pages with Jekyll
+---
+title: "FIRST-BLOG-POST"
+date: 2019-02-26
+---
